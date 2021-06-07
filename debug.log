@@ -1,0 +1,2 @@
+[0716/190745.173:ERROR:settings.cc(401)] Settings magic is not 1129342067
+[0716/231659.132:WARNING:minidump_to_upload_parameters.cc(36)] duplicate key guid, discarding value 85a10dfd-fcee-4b0d-9489-a04bb02b8e9b
